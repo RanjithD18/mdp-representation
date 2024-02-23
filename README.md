@@ -97,7 +97,7 @@ P = {
 ```
 
 ## OUTPUT:
-![image](https://github.com/Aashima02/mdp-representation/assets/93427086/56a5dc3b-c36e-48c8-aba8-790690d36da0)
+![](https://github.com/RanjithD18/mdp-representation/blob/main/2.png)
 
 
 
