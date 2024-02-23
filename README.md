@@ -32,7 +32,7 @@ To develop an environment consisting of a mobile tower as the start and the hous
 * 0 - Otherwise
 
 ## GRAPHICAL REPRESENTATION:
-![WhatsApp Image 2023-09-03 at 19 53 05](https://github.com/Aashima02/mdp-representation/assets/93427086/f9975da2-4262-4564-a57e-0402007880f6)
+![](https://github.com/RanjithD18/mdp-representation/blob/main/1.jpeg)
 
 
 ## PYTHON REPRESENTATION:
